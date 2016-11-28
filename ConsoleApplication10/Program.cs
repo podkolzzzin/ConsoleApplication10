@@ -10,7 +10,7 @@ namespace ConsoleApplication10
     {
         static void Main(string[] args)
         {
-            Array.Res
+            Array.Resize();
         }
     }
 }
